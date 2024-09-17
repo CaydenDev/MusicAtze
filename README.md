@@ -1,2 +1,5 @@
 # MusicAtze
-A Simple Music Bot
+Documentation in the main wiki page
+
+### Security Notice
+All Work on this Bot has been stopped.
